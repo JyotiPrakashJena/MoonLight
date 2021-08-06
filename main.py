@@ -18,7 +18,7 @@ FinalStockList = {'21STCENMGM': '21st Century Management Services Limited', '3MI
 candle_stick = 0
 count = 0
 amountPerStock = 5000
-
+test=0
 def get_filenames(Date_Range):
     # IST = pytz.timezone('Asia/Kolkata')
     # ist_today = datetime.datetime.now(IST)
